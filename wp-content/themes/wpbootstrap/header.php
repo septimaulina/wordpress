@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>Bootstrap, from Twitter</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Le styles -->
@@ -17,8 +18,7 @@
   <body>
 <!-- this is navbar support line and contact -->
 
- -->
-   <div class="navbar navbar-default navbar-fixed-top">
+   <div class="navbar navbar-default navbar-static-top">
     <div class="navbar-inner">
       <div class="container">
         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -44,7 +44,7 @@
   </div>
 
 <!-- this is navbar brand title -->
-<div class="bs-docs-header" id="content" tabindex="-1">
+<div class="bs-docs-header static" id="content" tabindex="-1">
     <div class="container">
       <h1>KOKI JONI</h1>
     </div>
