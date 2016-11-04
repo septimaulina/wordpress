@@ -1,7 +1,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2012</p>
+        <p class="text-center">BOOTSTRAP THEME BY <a class="redtypo">TONJOO </a> &copy; 2016</p>
       </footer>
 
     </div> <!-- /container -->
