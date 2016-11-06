@@ -1,21 +1,18 @@
 <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>Koki Joni</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Le styles -->
+    
     <link href="<?php bloginfo('stylesheet_url');?>" rel="stylesheet">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    
     <?php wp_enqueue_script("jquery"); ?>
     <?php wp_head(); ?>
   </head>
   <body>
+  
 <!-- this is navbar support line and contact -->
 
    <div class="navbar navbar-default navbar-static-top">
