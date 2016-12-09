@@ -95,6 +95,8 @@ h1{
 }
 #redbg{
     background: #E84C3D;
+    height: 300px !important;
+
 }
 hr {
     margin: 15px 0;

@@ -6,9 +6,8 @@
 
 
 <div id="redbg">
-<
-    <span>kdldk</span>
-</div>
+
+    </div>
     <footer id="footer">
     <div class="container">
     <div class="row">
@@ -44,12 +43,7 @@
                         <span class="text"> </span>
                     </div>
                 </div>
-                <div class="span1">    
-                    <div class="twitter">
-                        <span class="text"> </span>
-                    </div>
-                </div>
-
+                
             </div>
 
         </div>
@@ -58,7 +52,7 @@
     
     <hr>
 
-        <p class="text-center lightgrey">BOOTSTRAP THEME BY <a class="redtypo">TONJOO </a> &copy; 2016</p>
+        <p class="text-center lightgrey">BOOTSTRAP THEME BY <a class="redtypo">septi maulina </a> &copy; 2016</p>
 </footer>
 
 
